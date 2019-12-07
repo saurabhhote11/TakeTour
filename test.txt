@@ -1,0 +1,6 @@
+This is my new Git File 
+Ready to fly in the blue sky
+Ready === 1
+Ready === 2
+Ready === 3
+======================== Go GO GO ===========
